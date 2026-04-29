@@ -39,7 +39,7 @@ For your and my convenience, theres als the empathicdriftmonitor.skill file, tha
 
 This is a living document. If you use the skill and notice patterns it misses, or if you improve it, PRs and issues are welcome.
 
-[GitHub]([https://](https://github.com/luxuxorg/empathic-drift-monitor)
+[Github.com/luxuxorg/empathic-drift-monitor](https://github.com/luxuxorg/empathic-drift-monitor)
 
 ## License
 
