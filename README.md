@@ -37,10 +37,9 @@ For your and my convenience, theres als the empathicdriftmonitor.skill file, tha
 
 ## Feedback & community
 
-This is a living document. If you use the skill and notice patterns it misses, or if you improve it, PRs and issues are welcome. Discussion is also active on:
+This is a living document. If you use the skill and notice patterns it misses, or if you improve it, PRs and issues are welcome.
 
-- [LessWrong](https://www.lesswrong.com)
-- [GitHub]([https://](https://github.com/luxuxorg/empathic-drift-monitor)
+[GitHub]([https://](https://github.com/luxuxorg/empathic-drift-monitor)
 
 ## License
 
